@@ -26,7 +26,7 @@ Rules:
     that doesn't end with a colon.
 </li>
 <p>
-¡¤The title is the first block in the document, provided that it is
+<li>The title is the first block in the document, provided that it is
     a heading.
 </li>
 <p>
