@@ -9,11 +9,11 @@ Major steps:
 <p>
 <p>
 <p>
-¡¤A Parser reads a text file, applying rules and controlling a
+<li> Parser reads a text file, applying rules and controlling a
     handler.
 </li>
 <p>
-¡¤A specific Parser that adds rules and filters in its
+<li> specific Parser that adds rules and filters in its
     constructor.
 </li>
 <p>
@@ -22,7 +22,7 @@ Rules:
 <p>
 <p>
 <p>
-¡¤A heading is a single line that is at most 70 characters and
+<li> heading is a single line that is at most 70 characters and
     that doesn't end with a colon.
 </li>
 <p>
@@ -30,16 +30,16 @@ Rules:
     a heading.
 </li>
 <p>
-¡¤A list item is a paragraph that begins with a hyphen. As part of
+<li> list item is a paragraph that begins with a hyphen. As part of
     the formatting, the hyphen is removed.
 </li>
 <p>
-¡¤A list begins between a block that is not a list item and a
+<li> list begins between a block that is not a list item and a
     subsequent list item. It ends after the last consecutive list
     item.
 </li>
 <p>
-¡¤A paragraph is simply a block that isn't covered by any of the
+<li> paragraph is simply a block that isn't covered by any of the
     other rules.
 </li>
 </body></html>
